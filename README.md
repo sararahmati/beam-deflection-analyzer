@@ -16,5 +16,5 @@ The application includes a PyQt5-based graphical interface and outputs shear for
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/beam-deflection-analyzer.git
+git clone https://github.com/sararahmati/beam-deflection-analyzer.git
 cd beam-deflection-analyzer
